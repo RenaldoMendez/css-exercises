@@ -1,0 +1,19 @@
+.odds{
+    background-color: rgb(255,153,153);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#even-unique{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.odds.uniq{
+    font-size: 24px;
+}
+
+#even-dos{
+    font-size:24px;
+    background-color: rgb(128,255,128);
+    font-weight:bold;
+}
